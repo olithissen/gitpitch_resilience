@@ -1,6 +1,6 @@
 # Resilience
 ---
-# The Eight Fallacies of Distributed Computing
+### The Eight Fallacies of Distributed Computing
 @ol
 - Das Netzwerk ist ausfallsicher
 - Die Latenzzeit ist gleich null
